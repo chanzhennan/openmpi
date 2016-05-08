@@ -1,0 +1,2 @@
+# openmpi
+OpenMPI Code Samples
